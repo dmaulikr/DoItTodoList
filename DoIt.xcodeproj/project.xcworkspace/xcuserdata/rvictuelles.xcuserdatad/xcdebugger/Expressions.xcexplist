@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AddTaskViewController.prepare(for : UIStoryboardSegue, sender : Any?) -&gt; ():AddTaskViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AddTaskViewController.btnAddTapped(Any) -&gt; ():AddTaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "referrerVC.tasks.first(where: {$0.name == task.name})">
+            </PersistentString>
+            <PersistentString
+               value = "referrerVC.tasks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
